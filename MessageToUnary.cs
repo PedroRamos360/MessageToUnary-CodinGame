@@ -78,17 +78,10 @@ class Solution {
     }
 
     static void Main(string[] args) {
-        try {
-            string MESSAGE = Console.ReadLine();
-            string binario = ConverterBinario(MESSAGE);
-            string unario = ConverterUnario(binario, MESSAGE);
+        string MESSAGE = Console.ReadLine();
+        string binario = ConverterBinario(MESSAGE);
+        string unario = ConverterUnario(binario, MESSAGE);
 
-            Console.WriteLine(binario);
-            Console.WriteLine(unario);
-            Console.WriteLine("0 0 00 0000 0 000 00 0000 0 00");
-        } catch (Exception ex) {
-            Console.WriteLine(ex.Message);
-        }
-        
+        Console.WriteLine(unario); 
     }
 }
