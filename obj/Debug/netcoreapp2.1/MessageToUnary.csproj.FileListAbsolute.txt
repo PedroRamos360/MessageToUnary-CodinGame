@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Teste\Teste\bin\Debug\netcoreapp2.1\MessageToUnary.deps.json
+C:\Users\User\source\repos\Teste\Teste\bin\Debug\netcoreapp2.1\MessageToUnary.runtimeconfig.json
+C:\Users\User\source\repos\Teste\Teste\bin\Debug\netcoreapp2.1\MessageToUnary.runtimeconfig.dev.json
+C:\Users\User\source\repos\Teste\Teste\bin\Debug\netcoreapp2.1\MessageToUnary.dll
+C:\Users\User\source\repos\Teste\Teste\bin\Debug\netcoreapp2.1\MessageToUnary.pdb
+C:\Users\User\source\repos\Teste\Teste\obj\Debug\netcoreapp2.1\MessageToUnary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Teste\Teste\obj\Debug\netcoreapp2.1\MessageToUnary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Teste\Teste\obj\Debug\netcoreapp2.1\MessageToUnary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Teste\Teste\obj\Debug\netcoreapp2.1\MessageToUnary.AssemblyInfo.cs
+C:\Users\User\source\repos\Teste\Teste\obj\Debug\netcoreapp2.1\MessageToUnary.dll
+C:\Users\User\source\repos\Teste\Teste\obj\Debug\netcoreapp2.1\MessageToUnary.pdb
